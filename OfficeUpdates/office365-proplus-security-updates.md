@@ -25,6 +25,8 @@ These release notes provide information about security updates that are included
 <<<<<<< HEAD
 *Monthly Channel: Version 8809 (Build 88888.88888)
 =======
+*Semi Annual Channel: Version 8666 (Build 66666.66666)
+>>>>>>> origin/november2018-1
 
 ### PowerPoint:
 -   [CVE-2018-8881](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8881)

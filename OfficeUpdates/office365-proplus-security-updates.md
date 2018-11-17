@@ -23,9 +23,9 @@ These release notes provide information about security updates that are included
 
 
 ## October 9, 2018
-*Monthly Channel: Version 1809 (Build 10827.20150)*
-*Semi-Annual Channel: Version 1803 (Build 9126.2295)*
-*Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20155)*
+Monthly Channel: Version 1809 (Build 10827.20150)  
+Semi-Annual Channel: Version 1803 (Build 9126.2295)  
+Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20155)  
 
 ### Excel:
 -   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502)
@@ -44,9 +44,9 @@ These release notes provide information about security updates that are included
 -   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)
 
 ## September 11
-*Monthly Channel: Version 1808 (Build 10730.20102)*
-*Semi-Annual Channel: Version 1803 (Build 9126.2295)*
-*Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20155)*
+Monthly Channel: Version 1808 (Build 10730.20102)  
+Semi-Annual Channel: Version 1803 (Build 9126.2295)  
+Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20155)  
 
 ### Excel:
 -   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)

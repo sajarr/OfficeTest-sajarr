@@ -23,8 +23,8 @@ These release notes provide information about security updates that are included
 
 
 ## December 11, 2018
-Monthly Channel: Version 1810 (Build 11001.20108)
-Semi-Annual Channel: Version 1803 (Build 9126.2315)
+Monthly Channel: Version 1810 (Build 11001.20108)  
+Semi-Annual Channel: Version 1803 (Build 9126.2315)  
 
 ### Excel
 

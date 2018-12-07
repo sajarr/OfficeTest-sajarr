@@ -46,6 +46,7 @@ Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20205)
 ### Word
 
 -   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573)  
+
 ## October 9, 2018
 *Monthly Channel: Version 1809 (Build 10827.20150)*
 *Semi-Annual Channel: Version 1803 (Build 9126.2295)*

@@ -22,6 +22,7 @@ These release notes provide information about security updates that are included
 > - We often roll out features (and sometimes even fixes) to Monthly over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually. [Learn more](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
 
 ## December 11, 2018
+Monthly Channel: Version 1811 (Build 11029.20108)  
 Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20262)  
 
 ### Excel

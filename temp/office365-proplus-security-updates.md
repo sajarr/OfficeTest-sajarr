@@ -23,6 +23,7 @@ These release notes provide information about security updates that are included
 
 ## December 11, 2018
 Monthly Channel: Version 1811 (Build 11029.20108)  
+Semi-Annual Channel: Version 1708 (Build 8431.2351)  
 
 ### Excel
 

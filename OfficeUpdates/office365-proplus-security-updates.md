@@ -23,6 +23,7 @@ These release notes provide information about security updates that are included
 
 ## March 12, 2019
 Monthly Channel: Version 1901 (Build 11231.20174)  
+Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20280)  
 
 ### Excel
 
@@ -30,12 +31,12 @@ Monthly Channel: Version 1901 (Build 11231.20174)
 
 ### OfficeSuite
 
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
 -   [CVE-2019-0673](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0673)
 -   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
 -   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
 -   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
--   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
--   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
 
 ## October 9, 2018
 Monthly Channel: Version 1809 (Build 10827.20150)  

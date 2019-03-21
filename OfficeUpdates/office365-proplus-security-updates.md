@@ -23,6 +23,7 @@ These release notes provide information about security updates that are included
 
 ## March 12, 2019
 Monthly Channel: Version 1901 (Build 11231.20174)  
+Semi-Annual Channel: Version 1808 (Build 10730.20280)  
 Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20280)  
 
 ### Excel

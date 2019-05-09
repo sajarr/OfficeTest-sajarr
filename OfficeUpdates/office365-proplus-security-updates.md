@@ -21,6 +21,26 @@ These release notes provide information about security fixes that are included i
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
+## May 14, 2019
+Monthly Channel: Version 1903 (Build 11425.20204)  
+
+### Excel
+
+-   [CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)
+
+### Word
+
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585)
+
+### Office Suite
+
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
+-   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
+-   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
+-   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
+-   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
+-   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
+
 ## April 09, 2019
 Monthly Channel: Version 1903 (Build 11425.20204)  
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  

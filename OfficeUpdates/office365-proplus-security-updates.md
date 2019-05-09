@@ -22,6 +22,22 @@ These release notes provide information about security fixes that are included i
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 
+## May 14, 2019
+Monthly Channel: Version 1901 (Build 11231.20174)  
+
+### Excel
+
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669)
+
+### Office Suite
+
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
 
 ## May 13, 2019
 Monthly Channel: Version 1901 (Build 11231.20174)  

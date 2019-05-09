@@ -21,6 +21,7 @@ These release notes provide information about security fixes that are included i
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
 
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
+
 ## April 09, 2019
 Monthly Channel: Version 1903 (Build 11425.20204)  
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  

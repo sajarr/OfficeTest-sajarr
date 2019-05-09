@@ -1,9 +1,9 @@
 ---
 title: "Release notes for Office 365 ProPlus Security Updates"
 ms.author: andrewmo
-author: andymosten
+author: 
 manager: andrewmo
-ms.date: 10/23/2018
+ms.date: 4/10/2019
 ms.audience: ITPro
 ms.topic: reference
 ms.service: o365-proplus-itpro
@@ -12,48 +12,125 @@ ms.collection: RelNotes_ProPlus
 description: "Provides IT Pros with release notes for Office 365 ProPlus Security Updates"
 ---
 
-# Release notes for Office 365 ProPlue Security Updates
+# Release notes for Office 365 ProPlus Security Updates
 
-These release notes provide information about security updates that are included in Monthly updates to Office 365 ProPlus.
+These release notes provide information about security fixes that are included in updates to Office 365 ProPlus.
  
- > [!NOTE]
+> [!NOTE]
 > - The following also provides information about security updates for Visio Pro for Office 365 and Project Online Desktop Client.
 > - This information also applies to Office 365 Business, which is the version of Office that comes with some Office 365 plans, such as Business Premium.
-> - We often roll out features (and sometimes even fixes) to Monthly over a period of time. This allows us to ensure that things are working smoothly before releasing the feature to a wider audience. So, if you don’t see something described below, don't worry you'll get it eventually. [Learn more](https://support.office.com/en-us/article/when-do-i-get-the-newest-features-in-for-office-365-da36192c-58b9-4bc9-8d51-bb6eed468516?ui=en-US&rs=en-US&ad=US)
+
+[//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
+## April 09, 2019
+Monthly Channel: Version 1903 (Build 11425.20204)  
+Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  
+Semi-Annual Channel: Version 1808 (Build 10730.20334)  
+Semi-Annual Channel: Version 1803 (Build 9126.2382)  
+
+### Excel
+
+-   [CVE-2019-0828](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0828)
+
+### Office Suite
+
+-   [CVE-2019-0822](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0822)
+-   [CVE-2019-0827](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0827)
+-   [CVE-2019-0824](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0824)
+-   [CVE-2019-0825](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0825)
+-   [CVE-2019-0826](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0826)
+-   [CVE-2019-0801](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0801)
+
+## March 12, 2019
+There are no security updates for any channel this month.
+
+## February 12, 2019
+Monthly Channel: Version 1901 (Build 11231.20174)  
+Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20280)   
+Semi-Annual Channel: Version 1808 (Build 10730.20280)  
+Semi-Annual Channel: Version 1803 (Build 9126.2356)  
+Semi-Annual Channel: Version 1708 (Build 8431.2372)  
 
 
-## October 9, 2018
-Monthly Channel: Version 1809 (Build 10827.20150)  
-Semi-Annual Channel: Version 1803 (Build 9126.2295)  
-Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20155)  
+### Excel
+
+-   [CVE-2019-0669](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0669)
+
+### Office suite
+
+-   [CVE-2019-0540](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0540)
+-   [CVE-2019-0674](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0674)
+-   [CVE-2019-0673](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0673)
+-   [CVE-2019-0672](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0672)
+-   [CVE-2019-0582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0582)
+-   [CVE-2019-0671](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0671)
+
+## January 8, 2019
+
+Monthly Channel: Version 1812 (Build 11126.20196)  
+Semi-Annual Targeted Channel: Version 1808 (Build 10730.20264)  
+Semi-Annual Channel: Version 1808 (Build 10730.20264)  
+Semi-Annual Channel: Version 1803 (Build 9126.2351)  
+Semi-Annual Channel: Version 1708 (Build 8431.2366)  
+
+
+### Outlook
+-   [CVE-2019-0559](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0559)
+
+### Word: Security updates 
+-   [CVE-2019-0561](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0561)
+-   [CVE-2019-0585](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0585) 
+ 
+### Office suite: Security updates 
+-   [CVE-2019-0541](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0541)
+-   [CVE-2019-0560](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2019-0560)
+
+## December 11, 2018
+Monthly Channel: Version 1811 (Build 11029.20108)  
+Semi-Annual Channel: Version 1803 (Build 9126.2336)  
+Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20262)  
+
+### Excel
+
+-   [CVE-2018-8597](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8597)
+-   [CVE-2018-8627](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8627)
+-   [CVE-2018-8598](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8598)
+-   [CVE-2018-8636](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8636)
+
+### Outlook
+
+-   [CVE-2018-8587](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8587)
+
+### PowerPoint
+
+-   [CVE-2018-8628](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8628)
+
+## November 13, 2018
+Monthly Channel: Version 1810 (Build 11001.20108)  
+Semi-Annual Channel: Version 1803 (Build 9126.2315)  
+Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20205)  
 
 ### Excel:
--   [CVE-2018-8502](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8502)
 
-### Outlook: 
--   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026)
+-   [CVE-2018-8574](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8574)
+-   [CVE-2018-8577](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8577)
 
-### PowerPoint:
--   [CVE-2018-8501](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8501)
+### Outlook:
 
-### Word: 
--   [CVE-2018-8504](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8504) 
--   [ADV180026](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/ADV180026) 
+-   [CVE-2018-8522](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8522)
+-   [CVE-2018-8524](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8524)
+-   [CVE-2018-8558](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8558)
+-   [CVE-2018-8576](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8576)
+-   [CVE-2018-8579](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8579)
+-   [CVE-2018-8582](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8582)
 
-### Office suite:
--   [CVE-2018-8432](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8432)
+### Project:
 
-## September 11
-Monthly Channel: Version 1808 (Build 10730.20102)  
-Semi-Annual Channel: Version 1803 (Build 9126.2295)  
-Semi-Annual Channel (Targeted): Version 1808 (Build 10730.20155)  
+-   [CVE-2018-8575](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8575)
 
-### Excel:
--   [CVE-2018-8331](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8331)
--   [CVE-2018-8429](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8429)
+### Skype for Business:
+
+-   [CVE-2018-8546](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8546)
 
 ### Word:
--   [CVE-2018-8430](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8430)
 
-### Office suite:
--   [CVE-2018-8332](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8332)
+-   [CVE-2018-8573](https://portal.msrc.microsoft.com/en-us/security-guidance/advisory/CVE-2018-8573)

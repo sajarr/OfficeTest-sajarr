@@ -23,6 +23,7 @@ These release notes provide information about security fixes that are included i
 [//]: # (DO NOT REMOVE THE LINE ABOVE, it is used for spacing)
 
 ## May 14, 2019
+Monthly Channel: Version 1903 (Build 11425.20204)  
 Semi-Annual Channel (Targeted): Version 1902 (Build 11328.20230)  
 Semi-Annual Channel: Version 1803 (Build 9126.2382)  
 Semi-Annual Channel: Version 1808 (Build 10730.20334)  
